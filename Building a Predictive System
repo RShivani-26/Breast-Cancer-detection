@@ -14,7 +14,7 @@ if (prediction[0] == 0):
   print('The Breast cancer is Malignant')
 
 else:
-  print('The Breast Cancer is Benign')
+  print('The Breast Cancer is Benign')  
 
 
  
